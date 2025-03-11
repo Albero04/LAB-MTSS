@@ -1,7 +1,8 @@
 
 
 
-# LAB1
-nuva riga
-nuova riga
+
+nuvariga
+nuovariga
+
 # LAB1
